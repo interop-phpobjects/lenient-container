@@ -12,5 +12,11 @@
             "Interop\\Lenient\\Container\\": "src/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/interop-phpobjects/lenient-container"
+        }
+    ],
     "minimum-stability": "dev"
 }
