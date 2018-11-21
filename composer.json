@@ -11,5 +11,6 @@
         "psr-0": {
             "Interop\\Lenient\\Container\\": "src/",
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
